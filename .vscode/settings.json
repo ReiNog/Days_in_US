@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "D:\\Dev\\venv1\\Scripts\\python.exe",
+    "notebook.cellToolbarVisibility": "hover",
+    "notebook.output.textLineLimit": 50
+}
